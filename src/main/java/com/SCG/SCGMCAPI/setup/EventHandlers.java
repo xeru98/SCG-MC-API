@@ -1,6 +1,6 @@
-package com.SCG.SCGMCAPI.setup;
+package com.scg.scgmcapi.setup;
 
-import com.SCG.SCGMCAPI.SCGMCAPI;
+import com.scg.scgmcapi.SCGMCAPI;
 import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.client.event.ClientPlayerNetworkEvent.LoggedInEvent;
 import net.minecraftforge.client.event.ClientPlayerNetworkEvent.LoggedOutEvent;

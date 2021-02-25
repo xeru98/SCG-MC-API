@@ -1,4 +1,4 @@
-package com.SCG.SCGMCAPI.setup;
+package com.scg.scgmcapi.setup;
 
 import net.minecraftforge.common.ForgeConfigSpec;
 import org.apache.logging.log4j.core.jmx.Server;
